@@ -1,0 +1,23 @@
+.btn{
+    height: 80px;
+    width: 80px;
+    justify-content: center;
+    border: none;
+    margin: 20px;
+    background-color: aqua;
+}
+
+body{
+    text-align: center;
+    margin-top: 200px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.btn:hover{
+    background-color: chocolate;
+}
